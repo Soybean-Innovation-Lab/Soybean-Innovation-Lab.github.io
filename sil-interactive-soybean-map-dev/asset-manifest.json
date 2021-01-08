@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/sil-interactive-soybean-map-dev/static/css/main.1c96ea3f.chunk.css",
+    "main.js": "/sil-interactive-soybean-map-dev/static/js/main.26f68293.chunk.js",
+    "main.js.map": "/sil-interactive-soybean-map-dev/static/js/main.26f68293.chunk.js.map",
+    "runtime-main.js": "/sil-interactive-soybean-map-dev/static/js/runtime-main.538d812c.js",
+    "runtime-main.js.map": "/sil-interactive-soybean-map-dev/static/js/runtime-main.538d812c.js.map",
+    "static/css/2.b4a16772.chunk.css": "/sil-interactive-soybean-map-dev/static/css/2.b4a16772.chunk.css",
+    "static/js/2.330b3614.chunk.js": "/sil-interactive-soybean-map-dev/static/js/2.330b3614.chunk.js",
+    "static/js/2.330b3614.chunk.js.map": "/sil-interactive-soybean-map-dev/static/js/2.330b3614.chunk.js.map",
+    "index.html": "/sil-interactive-soybean-map-dev/index.html",
+    "precache-manifest.ecb522abf2f7eb402a453db54b887690.js": "/sil-interactive-soybean-map-dev/precache-manifest.ecb522abf2f7eb402a453db54b887690.js",
+    "service-worker.js": "/sil-interactive-soybean-map-dev/service-worker.js",
+    "static/css/2.b4a16772.chunk.css.map": "/sil-interactive-soybean-map-dev/static/css/2.b4a16772.chunk.css.map",
+    "static/css/main.1c96ea3f.chunk.css.map": "/sil-interactive-soybean-map-dev/static/css/main.1c96ea3f.chunk.css.map",
+    "static/js/2.330b3614.chunk.js.LICENSE.txt": "/sil-interactive-soybean-map-dev/static/js/2.330b3614.chunk.js.LICENSE.txt",
+    "static/media/agronomy_blue.png": "/sil-interactive-soybean-map-dev/static/media/agronomy_blue.e347236a.png",
+    "static/media/disease.png": "/sil-interactive-soybean-map-dev/static/media/disease.b9fd4f40.png",
+    "static/media/disease_blue.png": "/sil-interactive-soybean-map-dev/static/media/disease_blue.51b19520.png",
+    "static/media/variety_blue.png": "/sil-interactive-soybean-map-dev/static/media/variety_blue.ad367168.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.538d812c.js",
+    "static/css/2.b4a16772.chunk.css",
+    "static/js/2.330b3614.chunk.js",
+    "static/css/main.1c96ea3f.chunk.css",
+    "static/js/main.26f68293.chunk.js"
+  ]
+}

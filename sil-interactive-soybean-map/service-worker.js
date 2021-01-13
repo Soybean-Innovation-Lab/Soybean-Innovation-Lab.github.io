@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sil-interactive-soybean-map/precache-manifest.b10c0685736b76836291665e9fb94d21.js"
+  "/sil-interactive-soybean-map/precache-manifest.9b835eb96be5bdc84f04011bfdf3dd51.js"
 );
 
 self.addEventListener('message', (event) => {
